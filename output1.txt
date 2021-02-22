@@ -1,9 +1,0 @@
-Mining block 1...
-Device from MineBlock: Intel(R) Xeon(R) E-2176G CPU @ 3.70GHz
-Block mined: 000000a59b50800cba7686d6deaaf299d99956330b592d4016cd53c48e71a80e
-Mining block 2...
-Device from MineBlock: Intel(R) Xeon(R) E-2176G CPU @ 3.70GHz
-Block mined: 000000b32fc1c90cd15901ecdd672d5ef5668f34d78eb3c727cef6f20d392a0a
-Mining block 3...
-Device from MineBlock: Intel(R) Xeon(R) E-2176G CPU @ 3.70GHz
-Block mined: 0000008da32a01b92927743718c11a3f64c483aa0cf4af71725bc798a6c0affb
