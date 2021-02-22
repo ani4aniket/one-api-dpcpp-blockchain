@@ -1,6 +1,9 @@
 Mining block 1...
-Block mined: 000000bc985bf07ae70a2a79820ae85a1beecc3175d8b1a0e33e628f76f0181b
+Device from MineBlock: Intel(R) Core(TM) i9-10920X CPU @ 3.50GHz
+Block mined: 000000c6fc26af6c91603fc59702cbb452e3317f11aa0fc7dcb78b403a5e22d9
 Mining block 2...
-Block mined: 0000004a78b66a6806a24305f325bb71f82f74cef2e06283b27bb0544f50cb90
+Device from MineBlock: Intel(R) Core(TM) i9-10920X CPU @ 3.50GHz
+Block mined: 000000f123b9076f1aea985abf57af0d3fac58b1ad66cbf2134cdd3696973755
 Mining block 3...
-Block mined: 000000b78306393fe395ae42b7668368787aed6bfbc1d00f77e5d23c4f832eca
+Device from MineBlock: Intel(R) Core(TM) i9-10920X CPU @ 3.50GHz
+Block mined: 00000054c57b33290f51af2b3cb6f50776c284b7e8538a5f9be74c90ac810396

@@ -1,3 +1,9 @@
 Mining block 1...
-Block mined: 000000bc985bf07ae70a2a79820ae85a1beecc3175d8b1a0e33e628f76f0181b
+Device from MineBlock: Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz
+Block mined: 000000546f2f8dac8c7ff5030668906ab5a8cca405ef6e560c383547e879ff1f
 Mining block 2...
+Device from MineBlock: Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz
+Block mined: 000000520a1a6e19f1931533f963e02dcb6b3459a686e02a900fa82589dc1970
+Mining block 3...
+Device from MineBlock: Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz
+Block mined: 000000f914f19561f2fe257776f3ec3976f8381f6dc4a0ae28be7403ca56a022
