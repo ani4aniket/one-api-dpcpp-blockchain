@@ -13,7 +13,7 @@ Block::Block(queue &q, uint32_t nIndexIn, const string &sDataIn) : _nIndex(nInde
 
 void Block::MineBlock(queue &q, uint32_t nDifficulty)
 {
-    std::cout << "Device from MineBlock: " << q.get_device().get_info<info::device::name>() << std::endl;
+//     std::cout << "Device from MineBlock: " << q.get_device().get_info<info::device::name>() << std::endl;
     char cstr[nDifficulty + 1];
     for (uint32_t i = 0; i < nDifficulty; ++i)
     {
