@@ -1,0 +1,28 @@
+src/main.cpp:40:36: error: reference to 'endl' is ambiguous
+    cout << "Mining block 1..." << endl;
+                                   ^
+/usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/ostream:599:5: note: candidate found by name lookup is 'std::endl'
+    endl(basic_ostream<_CharT, _Traits>& __os)
+    ^
+/glob/development-tools/versions/oneapi/gold/inteloneapi/compiler/2021.1.2/linux/bin/../include/sycl/CL/sycl/stream.hpp:648:30: note: candidate found by name lookup is 'cl::sycl::endl'
+constexpr stream_manipulator endl = stream_manipulator::endl;
+                             ^
+src/main.cpp:43:36: error: reference to 'endl' is ambiguous
+    cout << "Mining block 2..." << endl;
+                                   ^
+/usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/ostream:599:5: note: candidate found by name lookup is 'std::endl'
+    endl(basic_ostream<_CharT, _Traits>& __os)
+    ^
+/glob/development-tools/versions/oneapi/gold/inteloneapi/compiler/2021.1.2/linux/bin/../include/sycl/CL/sycl/stream.hpp:648:30: note: candidate found by name lookup is 'cl::sycl::endl'
+constexpr stream_manipulator endl = stream_manipulator::endl;
+                             ^
+src/main.cpp:46:36: error: reference to 'endl' is ambiguous
+    cout << "Mining block 3..." << endl;
+                                   ^
+/usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/ostream:599:5: note: candidate found by name lookup is 'std::endl'
+    endl(basic_ostream<_CharT, _Traits>& __os)
+    ^
+/glob/development-tools/versions/oneapi/gold/inteloneapi/compiler/2021.1.2/linux/bin/../include/sycl/CL/sycl/stream.hpp:648:30: note: candidate found by name lookup is 'cl::sycl::endl'
+constexpr stream_manipulator endl = stream_manipulator::endl;
+                             ^
+3 errors generated.

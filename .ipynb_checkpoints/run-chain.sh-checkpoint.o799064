@@ -1,0 +1,21 @@
+
+########################################################################
+#      Date:           Mon 22 Feb 2021 03:51:36 AM PST
+#    Job ID:           799064.v-qsvr-1.aidevcloud
+#      User:           u62316
+# Resources:           neednodes=1:gpu:ppn=2,nodes=1:gpu:ppn=2,walltime=06:00:00
+########################################################################
+
+## u62316 is compiling BlockChain DPCPP
+Mining block 1...
+Block mined: 0000003af31e22ba7c1c499b294f280214e56e4b3a954cbf8a8688e6dcf5c316
+Mining block 2...
+Block mined: 000000efca9ea5dd7a035d1bfc16b829220fd2a3c058fcd26dd2d0aa52e4310e
+Mining block 3...
+Block mined: 000000db348cccc29c5b75885c82adb07b29c8afe8e70e9fc958cfd7838eb182
+
+########################################################################
+# End of output for job 799064.v-qsvr-1.aidevcloud
+# Date: Mon 22 Feb 2021 03:53:48 AM PST
+########################################################################
+
